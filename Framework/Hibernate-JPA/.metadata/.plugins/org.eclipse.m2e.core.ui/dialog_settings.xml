@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\Adv-Java\Framework\Hibernate-JPA\java_advanced.framework.hibernate_java.one_to_one"/>
+			<item value="E:\Adv-Java\Framework\Hibernate-JPA\java_dev.framework.hibernate_jpa\src\main\java\java_dev\framework\hibernate_jpa\main\Main.java"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -48,7 +50,10 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="java_dev.framework.hibernate_jpa"/>
+			<item value="java_adv.framework.hibernate_jpa.one-to-one_task1"/>
+			<item value="java_advanced.framework.hibernate_jpa.many to many"/>
+			<item value="java_advanced.framework.hibernate_jpa.one_to_many"/>
+			<item value="java_advanced.framework.hibernate_java.one_to_one"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
